@@ -1,2 +1,2 @@
 # ML-Support-Vector-Machine-SVM-
-The importance of miss-classifications is determined by the regularization parameter (lambda). SVM is a quadratic optimization problem whose goal is to maximize the margin between two classes while minimizing miss-classifications.
+For two-group classification problems, a support vector machine (SVM) is a supervised machine learning model that uses classification algorithms. SVM models can categorize new text after being given sets of labeled training data for each category. SVM is a quadratic optimization problem whose goal is to maximize the margin between two classes while minimizing miss-classifications.
